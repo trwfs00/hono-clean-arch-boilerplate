@@ -137,10 +137,6 @@ GET /api/v1/health
 
 ```http
 GET    /api/v1/users      # Get all users
-GET    /api/v1/users/:id  # Get user by ID
-POST   /api/v1/users      # Create new user
-PUT    /api/v1/users/:id  # Update user
-DELETE /api/v1/users/:id  # Delete user
 ```
 
 ### Interactive Documentation
